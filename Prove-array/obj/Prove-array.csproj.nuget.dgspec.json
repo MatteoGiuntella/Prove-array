@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj": {}
+    "C:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj": {
+    "C:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj",
+        "projectUniqueName": "C:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj",
         "projectName": "Prove-array",
-        "projectPath": "c:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj",
+        "projectPath": "C:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\Prove-array.csproj",
         "packagesPath": "C:\\Users\\Matteo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\obj\\",
+        "outputPath": "C:\\Users\\Matteo\\Desktop\\C# Udemy\\Prove-array\\Prove-array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matteo\\AppData\\Roaming\\NuGet\\NuGet.Config"

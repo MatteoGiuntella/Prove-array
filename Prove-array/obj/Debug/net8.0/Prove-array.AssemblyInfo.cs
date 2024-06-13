@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prove-array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b076da12ab71c285ca53d35ba0f3f2577cb607b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prove-array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prove-array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
