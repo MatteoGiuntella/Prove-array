@@ -1,0 +1,14 @@
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\bin\Debug\net8.0\Prove-array.exe
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\bin\Debug\net8.0\Prove-array.deps.json
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\bin\Debug\net8.0\Prove-array.runtimeconfig.json
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\bin\Debug\net8.0\Prove-array.dll
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\bin\Debug\net8.0\Prove-array.pdb
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\Prove-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\Prove-array.AssemblyInfoInputs.cache
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\Prove-array.AssemblyInfo.cs
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\Prove-array.csproj.CoreCompileInputs.cache
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\Prove-array.dll
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\refint\Prove-array.dll
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\Prove-array.pdb
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\Prove-array.genruntimeconfig.cache
+c:\Users\Matteo\Desktop\C# Udemy\Prove-array\Prove-array\obj\Debug\net8.0\ref\Prove-array.dll
